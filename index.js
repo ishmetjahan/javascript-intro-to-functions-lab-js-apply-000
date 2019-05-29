@@ -15,8 +15,7 @@ function sayHiToGrandma(str){
     return "I can't hear you!"
   }
   if (str===str.toUpperCase()){
-    let respond= "yes indeed !"
-    return respond.toUpperCase()
+    return "YES INDEED!"
   }
   
 }
